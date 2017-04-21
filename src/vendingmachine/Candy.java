@@ -22,6 +22,6 @@ public class Candy {
     
     @Override
     public String toString() {
-        return name + "\nType: " + type + "\nCalories per Serving: " + calPerServ + "\n Price: " + price;
+        return name + "\nType: " + type + "\nCalories per Serving: " + calPerServ + "\nPrice: " + price;
     }
 }
